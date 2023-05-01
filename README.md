@@ -1,7 +1,21 @@
 
 Credit validation with database.
 
-This project is about verifing  the credit card details and storing data in mongodb database.
+This is a Python program that allows you to validate credit card details and store them in a database.
+
+Prerequisites
+You will need Python 3.x and the following Packages and Tools :
+
+
+MongoDB Compass
+DotEnv
+Pymongo
+Pytest
+
+Usage
+You can use this program by running the main.py file.
+
+python main.py
 
 
 This picture shows the output of validation
