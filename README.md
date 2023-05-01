@@ -8,9 +8,9 @@ Prerequisites
 You will need Python 3.x and the following Packages and Tools :
 
 
-MongoDB Compass
-DotEnv
-Pymongo
+MongoDB Compass,
+DotEnv,
+Pymongo,
 Pytest
 
 Usage
