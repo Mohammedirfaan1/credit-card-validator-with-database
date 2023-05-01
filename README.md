@@ -1,7 +1,7 @@
 
 Credit validation with database.
 
-This project is about verifing  the credit card details and storing details in mongodb database.
+This project is about verifing  the credit card details and storing data in mongodb database.
 
 
 This picture shows the output of validation
