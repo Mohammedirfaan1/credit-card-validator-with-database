@@ -24,7 +24,7 @@ This picture shows the output of validation
 
 ![python output](https://user-images.githubusercontent.com/90182329/232245996-13195334-bb35-45cb-bdd9-c42dd6e2fdf5.png)
 
-This picture shows the card details add to the database
+This picture shows the card details added to the database
 
 ![mongodb output](https://user-images.githubusercontent.com/90182329/232246008-ce84c968-b0f5-4a36-a1d6-e7f939f3da41.png)
 
